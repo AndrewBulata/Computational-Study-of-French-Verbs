@@ -1,1 +1,1 @@
-# Computational-Study-of-French-Verbs
+# Exploratory Data Analysis of French Verbs
